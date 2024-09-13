@@ -2,13 +2,25 @@
 
 ## Overview
 
-Welcome to the Real-Time Car and License Plate Detection System! This project leverages computer vision and machine learning techniques to detect cars and license plates in real-time.
+Welcome to the Real-Time Car and License Plate Detection System! 
+
+This project implements a powerful real-time car and license plate detection system using deep learning and computer vision techniques. The system is capable of identifying vehicles and extracting license plates from video feeds, achieving high accuracy with both trained and untrained AI models. It supports multiple license plate formats, including UK-style plates, and can be easily extended for use in various applications such as traffic monitoring, security, and automated toll systems.
 
 ## Features
 
 - **Real-Time Detection:** Detects cars and license plates in live video streams.
 - **High Accuracy:** Utilizes state-of-the-art models for accurate detection.
+- **Intermediate detection stages:** To visualize how the model improves during training.
+- **Support for multiple license plate formats**: including UK plates.
+- **Customizable** for various real-world applications like traffic management and surveillance.
 - **Easy to Use:** Simple setup and usage instructions.
+
+## Technologies Used
+- **Python**
+- **OpenCV**
+- **YOLOv8 for object detection**
+- **TensorFlow/PyTorch for model training**
+- **Git LFS for managing large files**
 
 ## Installation
 
