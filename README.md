@@ -73,7 +73,7 @@ Here are some screenshots that demonstrate the system in action:
 
 ![UK License Plate](./screenshots/Uk-License-Plate.png)
 
-*This image displays the system detecting a UK-style license plate, showcasing its versatility in handling various formats.*
+*This image displays the UK-style license plate that was used for the system to detect license plates, showcasing its versatility in handling various formats.*
 
 
 ## License
