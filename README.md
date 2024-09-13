@@ -39,11 +39,11 @@ Here are some screenshots that demonstrate the system in action:
 
 *This screenshot showcases the main user interface of the Real-Time Car and License Plate Detection System.*
 
-### Mid-Trained AI Detection
+### Sample Video Untracked
 
-![Mid Trained AI](./screenshots/Mid_Trained_AI.jpg)
+![Sample Video Untracked](./screenshots/Sample_video_untracked.PNG)
 
-*The system's detection results after partial training. It shows how well the AI performs during intermediate stages of training.*
+*This image shows how the system detects cars and license plates without tracking, providing a comparison to the tracked version.*
 
 ### Sample Video Tracked
 
@@ -51,11 +51,17 @@ Here are some screenshots that demonstrate the system in action:
 
 *This screenshot shows the detection of cars and license plates in a video with tracking enabled, highlighting real-time detection.*
 
-### Sample Video Untracked
+### Untrained AI Detection
 
-![Sample Video Untracked](./screenshots/Sample_video_untracked.PNG)
+![Untrained AI](./screenshots/Untrained_AI.jpg)
 
-*This image shows how the system detects cars and license plates without tracking, providing a comparison to the tracked version.*
+*This screenshot highlights the initial detection capabilities of the AI before training, showing room for improvement.*
+
+### Mid-Trained AI Detection
+
+![Mid Trained AI](./screenshots/Mid_Trained_AI.jpg)
+
+*The system's detection results after partial training. It shows how well the AI performs during intermediate stages of training.*
 
 ### Fully Trained AI Detection
 
@@ -68,12 +74,6 @@ Here are some screenshots that demonstrate the system in action:
 ![UK License Plate](./screenshots/Uk-License-Plate.png)
 
 *This image displays the system detecting a UK-style license plate, showcasing its versatility in handling various formats.*
-
-### Untrained AI Detection
-
-![Untrained AI](./screenshots/Untrained_AI.jpg)
-
-*This screenshot highlights the initial detection capabilities of the AI before training, showing room for improvement.*
 
 
 ## License
