@@ -31,35 +31,35 @@ Replace path/to/video.mp4 with the path to your video file.
 
 ## Screenshots
 
-Here are some screenshots of the project in action:
+Here are some screenshots that demonstrate the system in action:
 
 ### Interface
 
-![Interface](Interface.PNG)
+![Interface](./Interface.PNG)
 
 ### Mid-Trained AI Detection
 
-![Mid Trained AI](Mid_Trained_AI.jpg)
+![Mid Trained AI](./Mid_Trained_AI.jpg)
 
 ### Sample Video Tracked
 
-![Sample Video Tracked](Sample_video_tracked.PNG)
+![Sample Video Tracked](./Sample_video_tracked.PNG)
 
 ### Sample Video Untracked
 
-![Sample Video Untracked](Sample_video_untracked.PNG)
+![Sample Video Untracked](./Sample_video_untracked.PNG)
 
 ### Fully Trained AI Detection
 
-![Trained AI](Trained_AI.jpg)
+![Trained AI](./Trained_AI.jpg)
 
 ### UK License Plate Detection
 
-![UK License Plate](Uk-License-Plate.png)
+![UK License Plate](./Uk-License-Plate.png)
 
 ### Untrained AI Detection
 
-![Untrained AI](Untrained_AI.jpg)
+![Untrained AI](./Untrained_AI.jpg)
 
 ## License
 
