@@ -37,29 +37,44 @@ Here are some screenshots that demonstrate the system in action:
 
 ![Interface](./screenshots/Interface.PNG)
 
+*This screenshot showcases the main user interface of the Real-Time Car and License Plate Detection System.*
+
 ### Mid-Trained AI Detection
 
 ![Mid Trained AI](./screenshots/Mid_Trained_AI.jpg)
+
+*The system's detection results after partial training. It shows how well the AI performs during intermediate stages of training.*
 
 ### Sample Video Tracked
 
 ![Sample Video Tracked](./screenshots/Sample_video_tracked.PNG)
 
+*This screenshot shows the detection of cars and license plates in a video with tracking enabled, highlighting real-time detection.*
+
 ### Sample Video Untracked
 
 ![Sample Video Untracked](./screenshots/Sample_video_untracked.PNG)
+
+*This image shows how the system detects cars and license plates without tracking, providing a comparison to the tracked version.*
 
 ### Fully Trained AI Detection
 
 ![Trained AI](./screenshots/Trained_AI.jpg)
 
+*This screenshot demonstrates the performance of the AI after full training, achieving high accuracy in detecting vehicles.*
+
 ### UK License Plate Detection
 
 ![UK License Plate](./screenshots/Uk-License-Plate.png)
 
+*This image displays the system detecting a UK-style license plate, showcasing its versatility in handling various formats.*
+
 ### Untrained AI Detection
 
 ![Untrained AI](./screenshots/Untrained_AI.jpg)
+
+*This screenshot highlights the initial detection capabilities of the AI before training, showing room for improvement.*
+
 
 ## License
 
